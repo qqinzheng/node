@@ -1,0 +1,36 @@
+a =2
+_
+var a = 2;
+-
+_
+qs = require('querystring');
+val = qs.parse('file=main&file=secondary&test=one');
+var test = function(x,y){}
+
+var test = function(x,y){}
+var test = function(x,y){...}
+return x*y;...
+var test = function(x,y){}
+
+
+
+
+
+
+
+var test = function(x,y){...}
+return x*y;...
+}
+test
+test(1,2)
+var test = function(x,y) {...
+return x*y;
+}
+test
+test(2,3)
+global
+http
+http
+var http22 = require('http');
+http22
+a =123;b=456
